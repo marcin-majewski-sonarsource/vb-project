@@ -1,1 +1,1 @@
-<Project Sdk="test"></Project>
+<Project att=\"test\" Sdk=\"Microsoft.NET.Sdk.WindowsDesktop\"><a></a></Project>"
